@@ -1,5 +1,4 @@
-# Predicting school closings from the DOE College Scorecard.
-## Springboard Capstone project.
+# Predicting school closings from the DOE College Scorecard
 ## Kirsten Regier
 
 # Introduction
