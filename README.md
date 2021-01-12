@@ -11,7 +11,7 @@ The database includes information about the institution, its finances, federal f
 ## Currently operating schools by governance and cost
 The schools in the data are divided into three categories based on the type of governance - public schools, private nonprofit schools, and private for-profit schools. The following figure shows the cost of currently operating institution based on their governance structure, and the predominant degree awarded by the institution. Private nonprofit schools have higher costs in general, but offer higher degrees than public and private for-profit schools. Public schools generally have lower costs in all degree categories.
 
-![Swarmplot of Cost by Predominant degree and Governance structure for currenlty operating institutions](/figures/currentPriceDegreeSwarm.png)
+![Swarmplot of Cost by Predominant degree and Governance structure for currently operating institutions](/figures/currentPriceDegreeSwarm.png)
 
 # Modeling and Results
 A Decision Tree model formed the base for an AdaBoost model which was trained to predict school closings from the data. The AdaBoost model achieved an overall accuracy of 92%, with a recall of 93% and precision of 89% with respect to closed schools.
